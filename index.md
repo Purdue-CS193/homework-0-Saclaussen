@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Favorite Things About CS193
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- We meet once a week
+- The class is fairly small when compared to my others in CL50 and Fowler Hall
+- Excited to learn more about using terminal (have ony used dir, ls, and similar commands to run modded Minecraft Servers)
 
 ### Markdown
 
